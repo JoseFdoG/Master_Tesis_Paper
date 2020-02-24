@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Dubey2018HumanPriors}
+\bibinfo{author}{Dubey, R.}, \bibinfo{author}{Agrawal, P.},
+  \bibinfo{author}{Pathak, D.}, \bibinfo{author}{Griffiths, T.~L.} \&
+  \bibinfo{author}{Efros, A.~A.}
+\newblock \bibinfo{title}{Investigating human priors for playing video games}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Aponte2009MeasuringDif}
+\bibinfo{author}{Aponte, M.-V.}, \bibinfo{author}{Levieux, G.} \&
+  \bibinfo{author}{Natkin, S.}
+\newblock \bibinfo{title}{Measuring the level of difficulty in single player
+  video games}.
+\newblock \emph{\bibinfo{journal}{Entertainment Computing}}
+  \textbf{\bibinfo{volume}{2}} (\bibinfo{year}{2009}).
+
+\bibitem{Anderson2018Deceptive}
+\bibinfo{author}{Anderson, D.}, \bibinfo{author}{Stephenson, M.},
+  \bibinfo{author}{Togelius, J.}, \bibinfo{author}{Salge, C.} \&
+  \bibinfo{author}{Renz, J.}
+\newblock \bibinfo{title}{Deceptive games}  (\bibinfo{year}{2018}).
+
+\bibitem{Aponte2011DifVideoGames}
+\bibinfo{author}{Aponte, M.-V.}, \bibinfo{author}{Levieux, G.} \&
+  \bibinfo{author}{Natkin, S.}
+\newblock \bibinfo{title}{Difficulty in video games : An experimental
+  validation of a formal definition}.
+\newblock \emph{\bibinfo{journal}{ACM International Conference Proceeding
+  Series}} \bibinfo{pages}{49} (\bibinfo{year}{2011}).
+
+\bibitem{Sarkar2019TransDif}
+\bibinfo{author}{Sarkar, A.} \& \bibinfo{author}{Cooper, S.}
+\newblock \bibinfo{title}{Transforming game difficulty curves using function
+  composition}  (\bibinfo{year}{2019}).
+\newblock \urlprefix\url{https://doi.org/10.1145/3290605.3300781}.
+
+\bibitem{Bontrager2019Superstition}
+\bibinfo{author}{Bontrager, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Superstition in the network: Deep reinforcement
+  learning plays deceptive games}  (\bibinfo{year}{2019}).
+
+\bibitem{Plumed2018DualIn}
+\bibinfo{author}{Plumed, F.} \& \bibinfo{author}{Hernandez-Orallo, J.}
+\newblock \bibinfo{title}{Dual indicators to analyse ai benchmarks: Difficulty,
+  discrimination, ability and generality}.
+\newblock \emph{\bibinfo{journal}{IEEE Transactions on Games}}
+  \textbf{\bibinfo{volume}{PP}}, \bibinfo{pages}{1--1} (\bibinfo{year}{2018}).
+
+\end{thebibliography}
